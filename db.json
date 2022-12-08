@@ -1,0 +1,12 @@
+{
+  "user": [
+    {
+      "username": "Imran121",
+      "fullname": "Imran Khan",
+      "email": "test@gmail.com",
+      "password": "test",
+      "id": 1
+    }
+  ],
+  "posts": []
+}
